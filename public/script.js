@@ -38,4 +38,4 @@ fetch("/dreams")
 		dreamsForm.reset();
 		dreamsForm.elements.dream.focus();
 	});
-	});
+});
